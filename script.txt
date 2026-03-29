@@ -1,0 +1,11 @@
+"Hey everyone, we're Team Decode the Noise from SRM KTR Campus, Automation and Robotics. This is our Thermal Noise Visual Analyzer.
+
+Thermal noise exists in every electronic component. Using the Johnson-Nyquist formula, we compute the noise voltage from temperature, resistance, and bandwidth.
+
+Watch — as I increase the temperature, the noise voltage rises in real time. Same with resistance and bandwidth — every graph updates instantly.
+
+The Power Spectral Density at the bottom stays flat — that's the signature of white noise.
+
+This tool is useful in RF design, quantum computing, medical devices, and sensor engineering.
+
+We're Team Decode the Noise. Thanks for watching."
